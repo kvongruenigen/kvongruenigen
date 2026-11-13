@@ -15,7 +15,7 @@ Cognitio is an offline desktop app for running ten cognitive tasks covering atte
 [Repository](https://github.com/kvongruenigen/cognitio)
 
 - [Vitals Explorer](https://github.com/kvongruenigen/vitals-explorer) is a Python desktop app for plotting wearable vital signs, checking data quality, and exporting measurements. [See plots from the synthetic demo](https://github.com/kvongruenigen/vitals-explorer#screenshots).
-- [maf4pgx](https://github.com/kvongruenigen/maf4pgx) documents a workflow for bringing cancer mutation data into Progenetix so researchers can study sequence variants alongside copy number changes.
+- [maf4pgx](https://github.com/kvongruenigen/maf4pgx) documents a workflow for bringing cancer mutation data into Progenetix so researchers can study sequence variants alongside copy number changes. [View the workflow diagram](https://github.com/kvongruenigen/maf4pgx/blob/main/README.md#workflow).
 
 ## 💻 Tech stack
 
